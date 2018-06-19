@@ -1,0 +1,20 @@
+{
+  "name": "zlist",
+  "description": "A native application built with NativeScript-Vue",
+  "license": "MIT",
+  "readme": "zList",
+  "nativescript": {
+    "id": "org.zlist.app"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "^1.0.4",
+    "nativescript-vue": "^1.4.0-alpha.0",
+    "tns-core-modules": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "lazy": "1.0.11"
+  }
+}
